@@ -1,4 +1,4 @@
-# overview_controller.py (mit Debug-Ausgaben)
+# overview_controller.py (Schlüssel-Fix)
 import os
 import tkinter as tk
 from tkinter import Toplevel, Button
@@ -11,8 +11,14 @@ def show_overview(game):
     """ Zeigt die große Übersichtskarte, markiert Stationen und zeigt Erklärungstext. """
     print(f"DEBUG: show_overview aufgerufen für Level {game.level}")
     station_desc = StationDescription(language='de')
+    
+    # Ermittlung des Stationsnamens statt der Levelnummer als Schlüssel
+    try:
+        station_name = game.stations[game.level - 1]['name']
+    except (IndexError, KeyError):
+        station_name = None
+    print("DEBUG: gefundener Stationsname:", repr(station_name))
     print("DEBUG: station_desc keys:", list(station_desc.descriptions.keys())[:10])
-    print("DEBUG: gesuchter Schlüssel:", str(game.level))
 
     win = Toplevel(game.root)
     win.title("Übersichtskarte")
@@ -27,7 +33,7 @@ def show_overview(game):
     canvas = tk.Canvas(win, width=MAP_LARGE[0], height=MAP_LARGE[1], highlightthickness=0)
     canvas.pack()
     canvas.create_image(0, 0, anchor="nw", image=map_img)
-    win.map_img = map_img  # Referenz halten
+    win.map_img = map_img
 
     # Marker setzen
     for idx, st in enumerate(game.stations[:game.level]):
@@ -50,7 +56,7 @@ def show_overview(game):
     canvas.create_window(cx, cy, window=weiter_btn)
 
     # Erklärungstext mittig anzeigen
-    text = station_desc.get(str(game.level))
+    text = station_desc.get(station_name) if station_name else ""
     print("DEBUG: gefundener Text:", repr(text))
     if text:
         canvas.create_text(
