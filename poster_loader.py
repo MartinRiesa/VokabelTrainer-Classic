@@ -6,7 +6,7 @@ import tkinter as tk
 
 def load_poster_image(path, size):
     """
-    Lädt das Posterbild vom Dateisystem und skaliert es auf die gewünschte Größe.
+    Lädt und skaliert das Bild auf die gewünschte Größe.
     """
     img = Image.open(path)
     img = img.resize(size, Image.ANTIALIAS)
@@ -14,11 +14,9 @@ def load_poster_image(path, size):
 
 def display_poster(game, photo_image):
     """
-    Zeigt das Poster sowie die zugehörige Erklärung unterhalb des Bildes an.
-    game: Instanz der Spiel-Klasse mit Attributen 'root', 'stations' (DataFrame) und 'level'.
-    photo_image: Tkinter-kompatibles PhotoImage-Objekt des Posters.
+    Zeigt das Poster und unterhalb den Erklärungstext an.
     """
-    # Vorherige Poster- und Text-Widgets entfernen, falls vorhanden
+    # Alte Widgets entfernen
     if hasattr(game, 'poster_label'):
         game.poster_label.destroy()
     if hasattr(game, 'explanation_label'):
@@ -29,17 +27,35 @@ def display_poster(game, photo_image):
     game.poster_label.image = photo_image
     game.poster_label.pack(pady=(10, 0))
 
-    # Erklärungstext aus dem DataFrame holen (Spalte 'Erklärung')
+    # Erklärungstext
     try:
-        explanation = game.stations.iloc[game.level - 1]['Erklärung']
+        text = game.stations.loc[game.level - 1, 'Erklärung']
     except Exception:
-        explanation = ""
-
-    # Erklärung unterhalb des Bildes anzeigen
+        text = ""
     game.explanation_label = tk.Label(
         game.root,
-        text=explanation,
-        wraplength=800,      # Zeilenumbruch bei 800px
-        justify='center'     # Zentrierter Text
+        text=text,
+        wraplength=800,
+        justify='center'
     )
-    game.explanation_label.pack(pady=(5, 10))
+    game.explanation_label.pack(pady=(5, 20))
+
+def clear_poster(game):
+    """
+    Entfernt Poster- und Erklärungselemente.
+    """
+    if hasattr(game, 'poster_label'):
+        game.poster_label.destroy()
+        del game.poster_label
+    if hasattr(game, 'explanation_label'):
+        game.explanation_label.destroy()
+        del game.explanation_label
+
+def display_placeholder(game, message):
+    """
+    Zeigt eine graue Fläche mit Hinweistext.
+    """
+    clear_poster(game)
+    placeholder = tk.Label(game.root, text=message, bg='#ccc', width=80, height=10)
+    placeholder.pack(pady=(20, 20))
+    game.poster_label = placeholder
