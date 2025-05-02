@@ -1,0 +1,9 @@
+﻿diff --git a/levelwechsel.py b/levelwechsel.py
+    --- a/levelwechsel.py
+    +++ b/levelwechsel.py
+    @@
+-        karte.set_text(erklaerung, color="blue")
++        karte.set_text(erklaerung, color="blue")
++        # Neu: Text vorlesen
++        from tts_engine import speak
++        speak(erklaerung)
