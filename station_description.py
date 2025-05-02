@@ -1,4 +1,4 @@
-# station_description.py (sicherstellen vorhanden)
+# station_description.py
 import csv
 import os
 
@@ -16,7 +16,6 @@ class StationDescription:
                 reader = csv.DictReader(csvfile, delimiter=';')
                 for row in reader:
                     keys = {k.lower(): v for k, v in row.items()}
-                    # ID oder Name
                     station_id = keys.get('stationenid') or keys.get('id') or keys.get('stationid')
                     station_name = keys.get('station') or keys.get('stationname') or keys.get('name')
                     description = keys.get('erklärung') or keys.get('beschreibung') or keys.get('description')

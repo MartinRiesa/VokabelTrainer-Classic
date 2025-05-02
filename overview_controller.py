@@ -1,4 +1,4 @@
-# overview_controller.py (aktualisiert)
+# overview_controller.py (mit Debug-Ausgaben)
 import os
 import tkinter as tk
 from tkinter import Toplevel, Button
@@ -9,12 +9,17 @@ from station_description import StationDescription
 
 def show_overview(game):
     """ Zeigt die große Übersichtskarte, markiert Stationen und zeigt Erklärungstext. """
+    print(f"DEBUG: show_overview aufgerufen für Level {game.level}")
+    station_desc = StationDescription(language='de')
+    print("DEBUG: station_desc keys:", list(station_desc.descriptions.keys())[:10])
+    print("DEBUG: gesuchter Schlüssel:", str(game.level))
+
     win = Toplevel(game.root)
     win.title("Übersichtskarte")
     win.grab_set()
     win.transient(game.root)
 
-    # 1) Karte im Großformat
+    # Karte im Großformat
     map_img = ImageTk.PhotoImage(
         Image.open(MAP_FILE).resize(MAP_LARGE, Image.LANCZOS),
         master=win
@@ -24,33 +29,29 @@ def show_overview(game):
     canvas.create_image(0, 0, anchor="nw", image=map_img)
     win.map_img = map_img  # Referenz halten
 
-    # 2) Marker setzen
+    # Marker setzen
     for idx, st in enumerate(game.stations[:game.level]):
         x, y = geo_to_pixel(st['lat'], st['lon'], map_w=MAP_LARGE[0], map_h=MAP_LARGE[1])
         if idx < game.level - 1:
-            # bereits abgeschlossen: kleiner schwarzer Punkt
             r = 6
             canvas.create_oval(x-r, y-r, x+r, y+r, fill="black", outline="")
         else:
-            # aktuelle Station: Zug-Icon
             icon = ImageTk.PhotoImage(
                 Image.open(TRAIN_ICON).resize((32, 32), Image.LANCZOS),
                 master=win
             )
             canvas.create_image(x, y, image=icon)
-            if not hasattr(win, 'icons'):
-                win.icons = []
-            win.icons.append(icon)
+            win.icons = getattr(win, 'icons', []) + [icon]
 
-    # 3) "Weiter"-Button in Kartenmitte
+    # Weiter-Button
     cx = MAP_LARGE[0] // 2
     cy = MAP_LARGE[1] // 2
     weiter_btn = Button(win, text="Weiter", width=15, command=win.destroy)
     canvas.create_window(cx, cy, window=weiter_btn)
 
-    # 4) Erklärungstext mittig anzeigen
-    station_desc = StationDescription(language='de')
+    # Erklärungstext mittig anzeigen
     text = station_desc.get(str(game.level))
+    print("DEBUG: gefundener Text:", repr(text))
     if text:
         canvas.create_text(
             cx,
@@ -63,5 +64,4 @@ def show_overview(game):
             tags="desc_text"
         )
 
-    # 5) blockierend bis Klick
     win.wait_window()
