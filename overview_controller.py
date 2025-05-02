@@ -6,6 +6,7 @@ from PIL import Image, ImageTk
 from geo_utils import geo_to_pixel
 from config import MAP_LARGE, MAP_FILE, TRAIN_ICON
 from station_description import StationDescription
+from tts_reader import speak_async
 
 def show_overview(game):
     """ Zeigt die große Übersichtskarte, markiert Stationen und zeigt Erklärungstext. """
@@ -69,5 +70,6 @@ def show_overview(game):
             justify="center",
             tags="desc_text"
         )
+        speak_async(text)
 
     win.wait_window()
