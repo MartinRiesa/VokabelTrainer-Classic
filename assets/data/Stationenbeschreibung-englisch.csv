@@ -1,0 +1,1000 @@
+﻿Nr;Station;Ort;Latitude;Longitude;Erklärung;Englisch
+1;Main Tower;Frankfurt – Main Tower;501096;86724;"Der Main Tower in Frankfurt am Main ist ein 200 Meter hoher Wolkenkratzer mit öffentlich zugänglicher Aussichtsplattform. Das 2000 eröffnete Hochhaus prägt mit seiner Glasfassade die Frankfurter Skyline und zählt zu den höchsten Gebäuden Deutschlands; von 198 Metern Höhe genießt man einen Rundblick über die Stadt.";"The Main Tower in Frankfurt am Main is a 200 meter high skyscraper with a publicly accessible viewing platform. The high-rise, which opened in 2000, shapes the Frankfurt skyline with its glass facade and is one of the tallest buildings in Germany; From a height of 198 meters you can enjoy a panoramic view of the city."
+2;Finanzmetropole;Frankfurt – Römer;501106;86821;Frankfurt am Main zählt als Finanzmetropole zu den wichtigsten Bankenstandorten Europas. Sitz der Europäischen Zentralbank und zahlreicher Großbanken, verleiht die Skyline mit den meisten Wolkenkratzern Deutschlands der Stadt den Spitznamen „Mainhattan“.;As a financial metropolis, Frankfurt am Main is one of the most important banking locations in Europe. Home to the European Central Bank and numerous major banks, the skyline with the most skyscrapers in Germany gives the city its nickname “Mainhattan”.
+3;Kurtradition;Wiesbaden – Kurhaus;500826;82435;Wiesbaden gilt seit dem 19. Jahrhundert als mondäne Kurstadt. Das neoklassizistische Kurhaus von 1907, Thermalquellen und weitläufige Kurparks spiegeln bis heute die historische Wellness-Kultur wider.;Wiesbaden has been considered a sophisticated spa town since the 19th century. The neoclassical spa house from 1907, thermal springs and extensive spa parks still reflect the historical wellness culture today.
+4;Johannes Gutenberg;Mainz – Gutenberg-Museum;499983;82711;Johannes Gutenberg revolutionierte um 1450 in Mainz den Buchdruck mit beweglichen Lettern. Das Gutenberg-Museum zeigt u. a. zwei Gutenberg-Bibeln und demonstriert an historischen Pressen die Technik, die das Lesen weltweit veränderte.;Johannes Gutenberg revolutionized book printing with movable type in Mainz around 1450. The Gutenberg Museum shows, among other things: two Gutenberg Bibles and demonstrates on historical presses the technology that changed reading worldwide.
+5;Weinfest;Rüdesheim – Drosselgasse;499992;79433;Die Drosselgasse in Rüdesheim ist eine 144 Meter lange Fachwerkgasse voller Weinstuben. Ihre Weinfeste mit Live-Musik repräsentieren die gesellige Rheingauer Weinkultur.;The Drosselgasse in Rüdesheim is a 144 meter long half-timbered alley full of wine bars. Their wine festivals with live music represent the convivial Rheingau wine culture.
+6;Helene Fischer;Wöllstein – Geburtsort;49804;7967;Helene Fischer (*1984) wuchs in Wöllstein auf und wurde zur erfolgreichsten deutschen Schlagersängerin. Hits wie „Atemlos durch die Nacht“ und zahlreiche Auszeichnungen prägen ihre Karriere.;Helene Fischer (*1984) grew up in Wöllstein and became the most successful German pop singer. Hits like “Breathless through the Night” and numerous awards shape her career.
+7;Loreley;St. Goar – Loreleyfelsen;501389;77089;Der 132 Meter hohe Loreley-Felsen am Rhein ist sagenumwoben: Eine Nixe soll mit ihrem Gesang Schiffer ins Verderben gelockt haben. Heute ist der Aussichtspunkt Teil des UNESCO-Welterbes Oberes Mittelrheintal.;The 132 meter high Loreley Rock on the Rhine is shrouded in legend: a mermaid is said to have lured boatmen to their doom with her singing. Today the viewpoint is part of the Upper Middle Rhine Valley UNESCO World Heritage Site.
+8;Weinbau;Boppard – Rheinschleife;501172;76071;An der Rheinschleife bei Boppard wachsen auf steilen Schieferhängen Riesling-Reben. Der Bopparder Hamm dokumentiert seit Jahrhunderten die Weinbautradition des Mittelrheins.;Riesling vines grow on steep slate slopes on the Rhine loop near Boppard. The Bopparder Hamm has documented the wine-growing tradition of the Middle Rhine for centuries.
+9;Deutsches Eck;Koblenz – Deutsches Eck;503569;75881;Am Deutschen Eck fließen Mosel und Rhein zusammen. Das Reiterstandbild Kaiser Wilhelms I. (1897) erinnert an die Reichsgründung und wurde nach 1945 zum Symbol der deutschen Einheit.;The Moselle and Rhine flow together at the Deutsches Eck. The equestrian statue of Kaiser Wilhelm I (1897) commemorates the founding of the empire and became a symbol of German unity after 1945.
+10;Autobahn Erlebnis;Nürburgring – GP-Strecke;503341;69476;Deutschlands Autobahnen sind für fehlende Tempolimits bekannt. Auf der Nordschleife des Nürburgrings können Fahrer Hochgeschwindigkeit legal erleben – ein kontrolliertes Pendant zum Autobahnrausch.;Germany's highways are known for their lack of speed limits. On the Nordschleife of the Nürburgring, drivers can legally experience high speeds - a controlled counterpart to the rush of the motorway.
+11;Beethoven;Bonn – Beethoven-Haus;507368;7101;Ludwig van Beethoven (1770–1827) wurde in Bonn geboren. Sein Geburtshaus bewahrt Originalinstrumente und Handschriften des Komponisten, dessen Werke die klassische Musik bis heute prägen.;Ludwig van Beethoven (1770–1827) was born in Bonn. The house where he was born preserves the original instruments and manuscripts of the composer, whose works continue to shape classical music today.
+12;Kölner Karneval;Köln – Alter Markt;509403;6957;Der Kölner Karneval, seit 1823 organisiert, verwandelt die Stadt vom 11. 11. bis Aschermittwoch in ein buntes Volksfest. Höhepunkt ist der Rosenmontagszug mit Hunderttausenden kostümierten Jecken.;The Cologne Carnival, organized since 1823, transforms the city into a colorful folk festival from November 11th to Ash Wednesday. The highlight is the Rose Monday parade with hundreds of thousands of costumed jesters.
+13;Konrad Adenauer;Köln – Adenauer-Haus;509413;69583;Konrad Adenauer (1876–1967) war Kölner Oberbürgermeister und erster Bundeskanzler der Bundesrepublik. Sein Wohnhaus in Rhöndorf erzählt von seinem Einsatz für Wiederaufbau und Westbindung.;Konrad Adenauer (1876–1967) was the mayor of Cologne and the first chancellor of the Federal Republic. His home in Rhöndorf tells of his commitment to reconstruction and ties to the West.
+14;Neandertaler Fund;Mettmann – Neanderthal Museum;512275;6937;Der 1856 gefundene Neandertaler-Schädel revolutionierte das Verständnis menschlicher Evolution. Das Neanderthal Museum veranschaulicht die Geschichte unserer fossilen Verwandten.;The Neanderthal skull found in 1856 revolutionized the understanding of human evolution. The Neanderthal Museum illustrates the history of our fossil relatives.
+15;Rheinmetropole;Düsseldorf – Rheinturm;512277;67735;Düsseldorf verbindet Altstadt, Mode- und Messekultur mit moderner Architektur im Medienhafen. Der Rheinturm bietet einen Panoramablick auf die Rheinmetropole und ihre Kunst- und Shopping-Szene.;Düsseldorf combines old town, fashion and trade fair culture with modern architecture in the media harbor. The Rhine Tower offers a panoramic view of the Rhine metropolis and its art and shopping scene.
+16;Stahl & Kultur;Duisburg – Innenhafen;514344;67573;Der Duisburger Innenhafen, einst Speicher- und Handelshafen, wurde zum Kultur- und Büroquartier umgestaltet. Restaurierte Speicher und Museen zeigen den erfolgreichen Strukturwandel von Stahl zu Kultur.;The Duisburg inner harbor, once a storage and trading port, was transformed into a cultural and office district. Restored granaries and museums show the successful structural change from steel to culture.
+17;Ruhrindustrie;Essen – Zeche Zollverein;514839;70226;Die stillgelegte Zeche Zollverein, ein Bauhaus-Industrie-Ensemble, ist UNESCO-Welterbe. Ausstellungen und Events lassen die Bergbaugeschichte des Ruhrgebiets lebendig werden.;The disused Zollverein mine, a Bauhaus industrial ensemble, is a UNESCO World Heritage Site. Exhibitions and events bring the mining history of the Ruhr area to life.
+18;UNESCO Zollverein;Essen – Kokerei Zollverein;5149;70375;Die Kokerei Zollverein verarbeitete bis 1993 Kohle zu Koks und ist heute Teil des Weltkulturerbes. Besucher erkunden Fördertürme, Öfen und Aussichtsplattformen eines herausragenden Industriedenkmals.;The Zollverein coking plant processed coal into coke until 1993 and is now part of the world cultural heritage. Visitors explore the winding towers, furnaces and viewing platforms of an outstanding industrial monument.
+19;Fußball Bundesliga;Dortmund – Signal Iduna Park;514925;74517;Borussia Dortmunds Stadion mit der legendären „Gelben Wand“ steht für die Fankultur der Fußball-Bundesliga, die seit 1963 Millionen begeistert.;Borussia Dortmund's stadium with the legendary “Yellow Wall” represents the fan culture of the Bundesliga, which has thrilled millions since 1963.
+20;Westfälische Fachwerkstadt;Münster – Prinzipalmarkt;519628;76254;Münsters Prinzipalmarkt mit Giebelhäusern und Arkaden, Rathaus und Lambertikirche vereint mittelalterliche Baukunst und Wiederaufbau. Fahrräder und Friedensgeschichte prägen das Stadtbild.;Münster's principal market with gabled houses and arcades, town hall and Lambertikirche combines medieval architecture and reconstruction. Bicycles and the history of peace characterize the cityscape.
+21;Teutoburger Wald;Bielefeld – Sparrenburg;520302;85325;Die mittelalterliche Sparrenburg überragt Bielefeld am Rand des Teutoburger Waldes, der durch die Varusschlacht (9 n. Chr.) historisch bekannt ist.;The medieval Sparrenburg towers over Bielefeld on the edge of the Teutoburg Forest, which is historically known for the Battle of Varus (9 AD).
+22;Moderne Stadt;Hannover – Neues Rathaus;523759;9732;Hannovers wilhelminisches Neues Rathaus (1913) symbolisiert den Wiederaufbau der Stadt, die heute Messestandort und grüne Großstadt mit den Herrenhäuser Gärten ist.;Hanover's Wilhelmine New Town Hall (1913) symbolizes the reconstruction of the city, which is now a trade fair location and a green city with the Herrenhausen Gardens.
+23;Hannah Arendt;Hannover – H.-Arendt-Platz;523759;9732;Die politische Theoretikerin Hannah Arendt (1906–1975) wurde in Hannover geboren. Der Hannah-Arendt-Platz mahnt an Demokratie, Freiheit und Verantwortung.;The political theorist Hannah Arendt (1906–1975) was born in Hanover. Hannah-Arendt-Platz is a reminder of democracy, freedom and responsibility.
+24;Expo 2000;Hannover – Expo-Park;523728;97441;Die Expo 2000 war die erste Weltausstellung in Deutschland. Pavillons und Neubauten im Expo-Park erinnern an innovative Konzepte zu Mensch, Natur und Technik.;Expo 2000 was the first world exhibition in Germany. Pavilions and new buildings in the Expo Park are reminiscent of innovative concepts about people, nature and technology.
+25;Schloss Herrenhausen;Hannover – Herrenhausen;523909;97335;Das rekonstruierte Schloss Herrenhausen liegt inmitten der berühmten barocken Herrenhäuser Gärten mit Wasserspielen und Botanischem Berggarten.;The reconstructed Herrenhausen Palace is located in the middle of the famous baroque Herrenhausen Gardens with water features and a botanical mountain garden.
+26;Braunschweig – Schloss;Braunschweig – Schloss;522689;105268;Die Fassade des im Krieg zerstörten Welfenschlosses wurde 2007 vor ein modernes Einkaufs- und Kulturzentrum gesetzt – ein Beispiel für Tradition im neuen Gewand.;The facade of the Guelph Castle, which was destroyed in the war, was placed in front of a modern shopping and cultural center in 2007 - an example of tradition in a new guise.
+27;Planetarium;Wolfsburg – Phaeno;524224;107864;Das von Zaha Hadid entworfene Phaeno Science Center inszeniert Naturphänomene interaktiv. Es ergänzt Wolfsburgs Autostadt und die VW-Historie um Wissenschaftserlebnisse.;The Phaeno Science Center, designed by Zaha Hadid, stages natural phenomena interactively. It complements Wolfsburg's Autostadt and VW's history with scientific experiences.
+28;Volkswagen-Gründung;Wolfsburg – Autostadt;524225;107864;1938 als Standort für den VW-Käfer gegründet, erzählt Wolfsburgs Autostadt mit Pavillons und Oldtimern die Geschichte des Konzerns und des Automobils.;Founded in 1938 as a location for the VW Beetle, Wolfsburg's Autostadt tells the history of the company and the automobile with pavilions and vintage cars.
+29;Harz & Bergbau;Goslar – Altstadt;519045;104297;Die Fachwerk-Altstadt Goslars und das Erzbergwerk Rammelsberg bilden ein gemeinsames UNESCO-Welterbe: ein Jahrtausend Harzer Erzbergbau trifft mittelalterliche Kaiserstadt.;The half-timbered old town of Goslar and the Rammelsberg ore mine form a shared UNESCO World Heritage site: a millennium of Harz ore mining meets a medieval imperial city.
+30;Universitätsstadt;Göttingen – Gänseliesel;515403;99357;Seit 1737 prägt die Universität Göttingen die Stadt. Der Gänseliesel-Brunnen gilt als „meistgeküsstes Mädchen der Welt“, denn frisch promovierte Doktoranden küssen die Statue.;The University of Göttingen has shaped the city since 1737. The Gänseliesel Fountain is considered the “most kissed girl in the world” because newly graduated doctoral students kiss the statue.
+31;Brüder Grimm;Kassel – Grimm-Museum;513155;94962;In Kassel sammelten Jacob und Wilhelm Grimm ihre weltberühmten Märchen. Die Grimmwelt präsentiert Manuskripte und sprachwissenschaftliches Erbe.;Jacob and Wilhelm Grimm collected their world-famous fairy tales in Kassel. The Grimm World presents manuscripts and linguistic heritage.
+32;Documenta;Kassel – Friedrichsplatz;513118;9497;Die alle fünf Jahre stattfindende documenta macht Kassel zur Welthauptstadt zeitgenössischer Kunst und verwandelt die Stadt in ein riesiges Open-Air-Museum.;The documenta, which takes place every five years, makes Kassel the world capital of contemporary art and transforms the city into a huge open-air museum.
+33;Landgrafenkunst;Kassel – Bergpark Wilhelmshöhe;513116;94797;Europas größter Hangpark mit Herkules-Statue und barocken Wasserspielen ist UNESCO-Welterbe und Zeugnis landgräflicher Gartenkunst.;Europe's largest hillside park with a Hercules statue and baroque water features is a UNESCO World Heritage Site and a testament to the landgrave's garden art.
+34;Wartburgfest;Eisenach – Wartburg;509711;103277;1817 forderten Studenten auf der Wartburg nationale Einheit und Freiheitsrechte. Die Burg ist auch durch Luthers Bibelübersetzung berühmt.;In 1817, students at the Wartburg demanded national unity and civil liberties. The castle is also famous for Luther's translation of the Bible.
+35;Lutherische Kirchenkunst;Erfurt – Dom;509848;110299;Der gotische Erfurter Dom beherbergt die Gloriosa, größte freischwingende mittelalterliche Glocke. Hier wurde Martin Luther 1507 zum Priester geweiht.;The Gothic Erfurt Cathedral houses the Gloriosa, the largest free-swinging medieval bell. Martin Luther was ordained a priest here in 1507.
+36;Goethe;Weimar – Goethe-Haus;509795;11329;Goethes Wohnhaus zeigt originale Räume und Sammlungen des Dichters, der mit Schiller die Weimarer Klassik prägte.;Goethe's home shows original rooms and collections of the poet, who together with Schiller shaped the Weimar Classicism.
+37;Hyperinflation 1923;Weimar – DNT;509793;113292;Die Geldentwertung der Weimarer Republik erreichte 1923 ihren Höhepunkt: Preise explodierten, Ersparnisse verfielen – ein Trauma deutscher Wirtschaftsgeschichte.;The currency devaluation of the Weimar Republic reached its peak in 1923: prices exploded, savings collapsed - a trauma in German economic history.
+38;Rennsteig;Thüringer Wald – Rennsteig;505451;112147;Der 170 km lange Rennsteig-Kammweg ist ältester Fernwanderweg Deutschlands und verbindet Kultur- und Naturlandschaften des Thüringer Waldes.;The 170 km long Rennsteig Kammweg is the oldest long-distance hiking trail in Germany and connects cultural and natural landscapes of the Thuringian Forest.
+39;Glasmacherkunst;Lauscha – Glasbläserwerkstatt;505477;111681;Lauscha gilt als Geburtsort der gläsernen Christbaumkugel. Seit 1597 pflegen Familienbetriebe hier die Kunst des Glasblasens.;Lauscha is considered the birthplace of the glass Christmas tree ball. Family businesses have been cultivating the art of glass blowing here since 1597.
+40;Barockschloss;Coburg – Veste Coburg;502599;109644;Die Veste Coburg, eine der größten Burgen Deutschlands, beherbergt Kunstsammlungen und war 1530 Luther-Fluchtort.;The Veste Coburg, one of the largest castles in Germany, houses art collections and was Luther's place of refuge in 1530.
+41;Biertradition;Kulmbach – Mönchshof;501011;11438;Kulmbach präsentiert im Bayerischen Brauereimuseum Starkbier- und Eisbock-Tradition und feiert jährlich die Bierwoche.;Kulmbach presents strong beer and Eisbock traditions in the Bavarian Brewery Museum and celebrates Beer Week every year.
+42;Biertradition2;Kulmbach – Brauerei;501011;11438;Fränkische Braukunst mit Reinheitsgebot: Kulmbacher Starkbiere genießen internationalen Ruf und prägen lokale Identität.;Franconian brewing art with purity law: Kulmbacher strong beers enjoy an international reputation and shape local identity.
+43;Markgrafenkunst;Bayreuth – Opernhaus;499487;11576;Das Markgräfliche Opernhaus (1748) ist ein vollständig erhaltenes Barocktheater und UNESCO-Welterbe – ein Juwel höfischer Festkultur.;The Margravial Opera House (1748) is a completely preserved baroque theater and a UNESCO World Heritage Site - a jewel of courtly festival culture.
+44;Richard Wagner;Bayreuth – Festspielhaus;499451;115908;Das 1876 eröffnete Festspielhaus, akustisch auf Wagners Musikdramen ausgelegt, zieht Opernliebhaber aus aller Welt zu den Bayreuther Festspielen.;The festival hall, which opened in 1876 and is acoustically designed for Wagner's musical dramas, attracts opera lovers from all over the world to the Bayreuth Festival.
+45;Fränkische Schweiz;Pottenstein – Teufelshöhle;497631;114062;Die zerklüftete Karstlandschaft mit Tropfsteinhöhlen und Burgruinen ist seit dem 19. Jh. ein beliebtes Wander- und Klettergebiet.;The rugged karst landscape with stalactite caves and castle ruins has been a popular hiking and climbing area since the 19th century.
+46;UNESCO-Altstadt;Bamberg – Altstadt;498917;108852;Bambergs sieben-hügelige Altstadt mit romanischem Dom und Rathaus in der Regnitz gilt als größtes unzerstörtes historisches Stadtbild Deutschlands.;Bamberg's seven-hilled old town with a Romanesque cathedral and town hall in the Regnitz is considered the largest undestroyed historical cityscape in Germany.
+47;Weihnachtsmarkt;Nürnberg – Hauptmarkt;494542;110773;Der Nürnberger Christkindlesmarkt, seit dem 16. Jh. belegt, lockt mit Lebkuchen und Holzspielzeug jährlich zwei Millionen Besucher.;The Nuremberg Christkindlesmarkt, which has been in use since the 16th century, attracts two million visitors every year with gingerbread and wooden toys.
+48;Holocaust-Dokumentation;Nürnberg – Memorium;494528;11078;Das Memorium Nürnberger Prozesse erinnert in Saal 600 an die juristische Aufarbeitung der NS-Verbrechen und die Geburtsstunde des Völkerstrafrechts.;The Memorium Nuremberg Trials in Room 600 commemorates the legal investigation of the Nazi crimes and the birth of international criminal law.
+49;Bier Reinheitsgebot;Ingolstadt – Herzogskasten;48765;114257;1516 verkündeten bayerische Herzöge in Ingolstadt das Reinheitsgebot: Bier darf nur aus Wasser, Gerste, Hopfen bestehen – älteste Lebensmittelvorschrift der Welt.;In 1516, Bavarian dukes proclaimed the Purity Law in Ingolstadt: Beer may only consist of water, barley and hops - the oldest food regulation in the world.
+50;Fußball Allianz Arena;München – Allianz Arena;482188;116247;Die 2005 eröffnete Allianz Arena mit licht­durch­lässiger Außenhaut ist Heim des FC Bayern und eines der markantesten Stadien Europas.;The Allianz Arena, which opened in 2005 with a translucent outer shell, is home to FC Bayern and is one of the most striking stadiums in Europe.
+51;Olympia 1972;München – Olympiapark;48174;11546;"Die Spiele von 1972 setzten mit ihrer Zeltdach-Architektur neue Maßstäbe; das Attentat auf die israelische Mannschaft prägte die Erinnerung an das moderne Areal.";"The 1972 Games set new standards with their tent roof architecture; The attack on the Israeli team shaped the memory of the modern area."
+52;Sophie Scholl;München – LMU;4815;1158;Sophie Scholl verteilte 1943 Flugblätter der „Weißen Rose“ an der LMU. Heute mahnen Gedenktafeln an ihren mutigen Widerstand gegen das NS-Regime.;Sophie Scholl distributed “White Rose” leaflets at the LMU in 1943. Today, memorial plaques remind us of their courageous resistance against the Nazi regime.
+53;Oktoberfest;München – Theresienwiese;481312;115497;Seit 1810 feiert München das Oktoberfest. Riesige Bierzelte, Fahrgeschäfte und Trachten ziehen jährlich Millionen Besucher an.;Munich has been celebrating Oktoberfest since 1810. Huge beer tents, rides and traditional costumes attract millions of visitors every year.
+54;Schloss Neuschwanstein;Schwangau – Neuschwanstein;475576;107498;König Ludwigs Märchenschloss (ab 1869) verkörpert romantischen Historismus in alpiner Kulisse und diente als Vorbild für das Disney-Schloss.;King Ludwig's fairytale castle (from 1869) embodies romantic historicism in an Alpine setting and served as a model for the Disney castle.
+55;Zeppelinflug 1900;Friedrichshafen – Zeppelin Museum;476514;9478;Hier startete 1900 der erste Zeppelin der Welt. Das Museum zeigt Exponate zur Luftschiffära, darunter ein Teilstück der „Hindenburg“.;The world's first Zeppelin took off here in 1900. The museum shows exhibits from the airship era, including a section of the “Hindenburg”.
+56;Albert Einstein;Ulm – Einstein-Brunnen;484011;99876;Albert Einstein, 1879 in Ulm geboren, revolutionierte mit Relativitäts- und Quantentheorie die Physik. Der Brunnen erinnert an das Genie.;Albert Einstein, born in Ulm in 1879, revolutionized physics with relativity and quantum theory. The fountain commemorates the genius.
+57;Cannstatter Wasen;Stuttgart – Wasen;487904;92183;Das Cannstatter Volksfest (seit 1818) ist nach dem Oktoberfest das zweitgrößte deutsche Bier- und Volksfest und zieht jährlich rund vier Millionen Gäste an.;The Cannstatter Volksfest (since 1818) is the second largest German beer and folk festival after Oktoberfest and attracts around four million guests every year.
+58;Heidelberg – Schloss;Heidelberg – Schloss;494106;87151;Die romantische Schlossruine über dem Neckar war Residenz der Kurfürsten. Ihre Renaissance-Fassaden und das Große Fass begeisterten schon Goethe.;The romantic castle ruins above the Neckar were the residence of the electors. Its Renaissance facades and the Great Barrel already inspired Goethe.
+59;Carl Benz;Mannheim – Carl-Benz-Haus;494875;8466;Carl Benz baute 1885/86 in Mannheim den ersten praxistauglichen Motorwagen. Bertha Benz’ erste Fernfahrt bewies seine Alltagstauglichkeit.;Carl Benz built the first practical motor car in Mannheim in 1885/86. Bertha Benz's first long-distance journey proved its suitability for everyday use.
+60;Barocke Stadt;Würzburg – Residenz;497913;99534;Die Würzburger Residenz (1720–1744) mit Tiepolo-Fresko und Spiegelsaal gilt als Hauptwerk des süddeutschen Barock und ist UNESCO-Welterbe.;The Würzburg Residence (1720–1744) with its Tiepolo fresco and Hall of Mirrors is considered a major work of the South German Baroque and is a UNESCO World Heritage Site.
+61;Schwarzwälder Kirschtorte;Triberg – Café Schäfer;481275;82364;Im Schwarzwald entstand die Sahne-Schokoladen-Kirschtorte mit Kirschwasser. Das Café Schäfer serviert sie nach historischem Rezept.;The cream-chocolate-cherry cake with kirsch was created in the Black Forest. The Café Schäfer serves them according to a historical recipe.
+62;Aachener Dom;Aachen – Dom;507753;60839;Karls Pfalzkapelle (8./9. Jh.) und gotischer Chor sind erstes deutsches UNESCO-Welterbe. Über 30 deutsche Könige wurden hier gekrönt.;Karl's Palatinate Chapel (8th/9th century) and Gothic choir are Germany's first UNESCO World Heritage Site. Over 30 German kings were crowned here.
+63;UNESCO Dombezirk;Aachen – Dombezirk;50776;60839;Der Aachener Domschatz mit Karlsschrein und Marienschrein zählt zu den bedeutendsten Kirchenschätzen Europas und ergänzt den Weltkulturerbe-Dom.;The Aachen Cathedral Treasure with the Charlemagne Shrine and the Mary Shrine is one of the most important church treasures in Europe and complements the World Heritage Cathedral.
+64;Lutherstadt;Eisleben – Gedenkstätten;515281;115487;Luthers Geburts- und Sterbehäuser in Eisleben sind UNESCO-Welterbe und dokumentieren Leben und Wirkung des Reformators.;Luther's birth and death houses in Eisleben are a UNESCO World Heritage Site and document the life and impact of the reformer.
+65;Architektur­moderne;Dessau – Meisterhäuser;518349;122424;Die Meisterhäuser (1925/26) von Gropius für Bauhaus-Lehrer wie Kandinsky repräsentieren funktionale Bauhaus-Architektur im Originalzustand.;Gropius' master houses (1925/26) for Bauhaus teachers like Kandinsky represent functional Bauhaus architecture in its original state.
+66;Bauhaus-Gründung;Dessau – Bauhaus;518367;122428;Das Bauhausgebäude (1926) mit Glasfassade steht für die Verschmelzung von Kunst, Handwerk und Industrie – ein Meilenstein der Moderne.;The Bauhaus building (1926) with a glass facade represents the fusion of art, craftsmanship and industry - a milestone of modernity.
+67;Reformation;Lutherstadt Wittenberg – Schlosskirche;518661;126477;Luthers 95 Thesen von 1517 an der Schlosskirche lösten die Reformation aus und veränderten Kirche und Gesellschaft nachhaltig.;Luther's 95 theses from 1517 at the castle church triggered the Reformation and lastingly changed the church and society.
+68;Jazzfest;Leipzig – Moritzbastei;513393;123747;Die Leipziger Jazztage (seit 1976) holen internationale Jazzgrößen in historische Spielstätten wie die unterirdische Moritzbastei.;The Leipzig Jazz Days (since 1976) bring international jazz greats to historic venues such as the underground Moritzbastei.
+69;Johann Sebastian Bach;Leipzig – Bach-Museum;513388;123723;Bach wirkte ab 1723 als Thomaskantor in Leipzig. Das Museum zeigt Handschriften und Instrumente des Barockkomponisten.;Bach worked as Thomaskantor in Leipzig from 1723. The museum shows the Baroque composer's manuscripts and instruments.
+70;Völkerschlacht 1813;Leipzig – Denkmal;513128;124134;Das 91 Meter hohe Völkerschlachtdenkmal erinnert an Napoleons Niederlage in der größten Schlacht vor dem Ersten Weltkrieg.;The 91 meter high Battle of the Nations Monument commemorates Napoleon's defeat in the greatest battle before the First World War.
+71;Meißen Porzellan;Meißen – Porzellanmuseum;511642;134827;1710 entstand in Meißen das erste europäische Hartporzellan. Das Museum zeigt Meisterstücke mit den gekreuzten Schwertern.;The first European hard porcelain was created in Meißen in 1710. The museum shows masterpieces with crossed swords.
+72;Forschung & Flug;Berlin – Dt. Technikmuseum;523948;130644;Das Technikmuseum präsentiert Lokomotiven, Schiffe und einen „Rosinenbomber“ auf dem Dach – Technikgeschichte zum Anfassen.;The technology museum presents locomotives, ships and a “raisin bomber” on the roof – hands-on history of technology.
+73;Preußische Pracht;Potsdam – Schloss Sanssouci;523969;130586;"Friedrich der Große ließ Sanssouci (1747) als Rokoko-Sommerresidenz über Weinbergterrassen erbauen; Park und Schlösser sind UNESCO-Welterbe.";"Frederick the Great had Sanssouci (1747) built as a Rococo summer residence over vineyard terraces; The park and castles are UNESCO World Heritage Sites."
+74;Filmgeschichte;Potsdam – Filmpark Babelsberg;524039;130682;Die Babelsberger Studios (ab 1912) sind Wiege des deutschen Films. Der Filmpark gewährt Einblicke in Kulissen, Stunts und Tricktechnik.;The Babelsberg Studios (from 1912) are the cradle of German film. The film park provides insights into sets, stunts and trick technology.
+75;Berliner Luftbrücke;Berlin – Tempelhof;524731;13403;1948/49 versorgten Rosinenbomber den blockierten Westteil der Stadt über den Flughafen Tempelhof – ein Symbol westlicher Solidarität.;In 1948/49, raisin bombers supplied the blockaded western part of the city via Tempelhof Airport - a symbol of Western solidarity.
+76;Kalter Krieg;Berlin – Checkpoint Charlie;525076;133904;Der bekannteste Berliner Grenzübergang war Schauplatz brisanter Panzerkonfrontationen zwischen USA und UdSSR im Oktober 1961.;The most famous Berlin border crossing was the scene of explosive tank confrontations between the USA and the USSR in October 1961.
+77;Hauptstadtgeschichte;Berlin – Brandenburger Tor;525163;133777;Das klassizistische Tor (1791) stand bis 1989 an der Mauer und wurde nach dem Fall zum Symbol der deutschen Einheit.;The classicist gate (1791) stood on the wall until 1989 and became a symbol of German unity after its fall.
+78;Techno-Kultur;Berlin – Berghain;525114;13439;Der Club Berghain in einem ehemaligen Kraftwerk gilt als Mekka des Techno: kompromisslose Türpolitik und erstklassiger Sound erzeugen Kultstatus.;The Berghain club in a former power plant is considered a techno mecca: uncompromising door policy and first-class sound create cult status.
+79;Mauerfall;Berlin – East Side Gallery;525045;134408;Die bemalten 1,3 km Mauerreste zeigen über 100 Murals, die Freude über die friedliche Revolution von 1989 ausdrücken.;The painted 1.3 km of wall remains show over 100 murals that express joy about the peaceful revolution of 1989.
+80;Parklandschaft;Fürstenberg/Havel – Schloss;53125;13093;Schloss Fürstenberg liegt in einer seen- und waldreichen Parklandschaft Nordbrandenburgs und spiegelt adlige Kultur in naturnaher Umgebung.;Fürstenberg Castle is located in a park landscape in northern Brandenburg rich in lakes and forests and reflects aristocratic culture in a natural setting.
+81;Brandenburgische Seen;Rheinsberg – Schloss;530913;129084;Schloss Rheinsberg am Grienericksee, einst Residenz Friedrichs des Großen, repräsentiert die idyllischen Seen des Ruppiner Landes.;Rheinsberg Castle on Grienericksee, once the residence of Frederick the Great, represents the idyllic lakes of the Ruppiner Land.
+82;Müritzeum;Waren – Müritzeum;535211;126801;Deutschlands größtes Süßwasseraquarium informiert im Müritzeum über Flora und Fauna der Mecklenburgischen Seenplatte.;Germany's largest freshwater aquarium provides information about the flora and fauna of the Mecklenburg Lake District in the Müritzeum.
+83;Hafengeschichte;Rostock – Alter Strom;540865;121095;Warnemündes Alter Strom zeigt mit Fischerbooten und Kapitänshäusern die maritime Tradition der Hansestadt Rostock.;Warnemünde's Alter Strom shows the maritime tradition of the Hanseatic city of Rostock with fishing boats and captain's houses.
+84;Fischerdorf;Ahrenshoop – Künstlerkolonie;543996;124539;"Das ehemalige Fischerdorf Ahrenshoop wurde ab 1890 zur Künstlerkolonie; Reetdächer und Ostseelicht inspirieren Maler bis heute.";"The former fishing village of Ahrenshoop became an artists' colony from 1890; Thatched roofs and Baltic Sea light continue to inspire painters today."
+85;Stadterhebung;Stralsund – Altstadt;543126;130929;"Stralsunds Backsteingotik-Altstadt erhielt 1234 Stadtrecht; als Hanse-Hafen ist sie zusammen mit Wismar UNESCO-Welterbe.";"Stralsund's brick Gothic old town received city rights in 1234; As a Hanseatic port, it is a UNESCO World Heritage Site together with Wismar."
+86;Backsteingotik;Greifswald – Dom;540924;134022;Der Dom St. Nikolai (13. Jh.) dominiert Greifswalds Silhouette und verkörpert norddeutsche Backsteingotik und Hanse-Reichtum.;The St. Nikolai Cathedral (13th century) dominates Greifswald's silhouette and embodies North German brick Gothic and Hanseatic wealth.
+87;Nationalpark Jasmund;Rügen – Kreideküste;545406;135747;Die weißen Kreidefelsen und alten Buchenwälder des Nationalparks Jasmund sind UNESCO-Weltnaturerbe und Inspiration romantischer Maler.;The white chalk cliffs and ancient beech forests of the Jasmund National Park are a UNESCO World Heritage Site and an inspiration for romantic painters.
+88;Kaiserbäder Usedom;Usedom – Kaiserbäder;540536;142743;Ahlbeck, Heringsdorf, Bansin lockten seit 1900 mit Seebrücken und Bäderarchitektur das Berliner Bürgertum an die Ostsee.;Since 1900, Ahlbeck, Heringsdorf and Bansin have attracted the Berlin bourgeoisie to the Baltic Sea with their piers and resort architecture.
+89;UNESCO-Altstadt Wismar;Wismar – Altstadt;538923;114628;Giebelhäuser, Wasserkunst und Backsteinkirchen bezeugen Wismars Hanse-Vergangenheit und machten die Altstadt zum Weltkulturerbe.;Gable houses, water art and brick churches testify to Wismar's Hanseatic past and made the old town a world cultural heritage site.
+90;Schwerin – Schloss;Schwerin – Schloss;536294;114154;Das romantische Insel-Schloss mit Türmen und goldenem Turmhelm ist Sitz des Landtags Mecklenburg-Vorpommerns und ein Märchenmotiv.;The romantic island castle with towers and a golden spire is the seat of the Mecklenburg-Western Pomerania state parliament and a fairytale motif.
+91;Backsteingotik Ost;Lübeck – Holstentor;538683;106873;Das spätgotische Holstentor (1464–1478) mit Zwillings­türmen ist Lübecks Wahrzeichen und erinnert an die Blüte der Hanse.;The late Gothic Holstentor (1464–1478) with twin towers is Lübeck's landmark and is reminiscent of the heyday of the Hanseatic League.
+92;St. Michaelis;Hamburg – Michel;535496;99882;Der barocke Michel mit 132 m Turm bietet Seefahrern Orientierung und Hamburgern ein identitätsstiftendes Wahrzeichen.;The baroque Michel with a 132 m tower offers sailors orientation and Hamburg residents an identity-forming landmark.
+93;Elbphilharmonie;Hamburg – Elbphilharmonie;535411;99847;Das 2017 eröffnete Konzerthaus kombiniert modernen Glaswellenbau auf historischem Kaispeicher und setzt akustische Maßstäbe.;The concert hall, which opened in 2017, combines modern glass wave construction on the historic quay storage and sets acoustic standards.
+94;Hafengeburtstag;Hamburg – Landungsbrücken;535462;99667;Europas größtes Hafenfest feiert seit 1189 die Hamburger Schifffahrt mit Ein- und Auslaufparaden von Segel- bis Kreuzfahrtschiffen.;Europe's largest harbor festival has been celebrating Hamburg's shipping since 1189 with incoming and outgoing parades of everything from sailing ships to cruise ships.
+95;Reeperbahn;Hamburg – St. Pauli;535503;99668;St. Paulis Reeperbahn ist weltberühmtes Vergnügungs- und Rotlichtviertel, wo in den 1960ern die Beatles ihren Durchbruch hatten.;St. Pauli's Reeperbahn is a world-famous entertainment and red light district, where the Beatles had their breakthrough in the 1960s.
+96;Handball THW Kiel;Kiel – Wunderino Arena;543215;10131;THW Kiel, vielfacher deutscher und Champions-League-Sieger, sorgt in der Wunderino Arena für Handball-Atmosphäre auf Weltklasseniveau.;THW Kiel, multiple German and Champions League winner, ensures a world-class handball atmosphere in the Wunderino Arena.
+97;Kieler Woche;Kiel – Hörn;543233;10139;"Seit 1882 ist die Kieler Woche das größte Segelereignis der Welt; Regatten und maritimes Volksfest beleben eine Woche lang die Förde.";"Since 1882, the Kiel Week has been the largest sailing event in the world; Regattas and a maritime festival enliven the fjord for a week."
+98;Max Planck;Kiel – Max-Planck-Schule;543433;101247;Der in Kiel geborene Physiker Max Planck (1858–1947) begründete mit seiner Quantentheorie die moderne Physik.;The Kiel-born physicist Max Planck (1858–1947) founded modern physics with his quantum theory.
+99;Sylt Strandkultur;Westerland – Strandpromenade;549063;83028;"Sylt vereint Kurtradition, endlose Sandstrände und Prominentenflair; Strandkörbe und Reetdörfer prägen Deutschlands bekannteste Nordseeinsel.";"Sylt combines spa tradition, endless sandy beaches and celebrity flair; Beach chairs and thatched villages characterize Germany's most famous North Sea island."
+100;Moderne Kunst;Magdeburg – Kunstmuseum;521317;116394;Das Kunstmuseum im Kloster Unser Lieben Frauen verbindet romanische Architektur mit internationaler Gegenwartskunst – Symbol des modernen Magdeburg.;The art museum in the Monastery of Our Lady combines Romanesque architecture with international contemporary art - a symbol of modern Magdeburg.
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
